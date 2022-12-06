@@ -2,6 +2,9 @@
 
 - [LinkedIn](https://www.linkedin.com/in/jeremy-elam-7a5480102)
 
+### About me 
+I am a software developer with experience in building multi-tiered applications. Experienced in building backend applications with multiple different programming languages, such as GO, Python, Javascript, and Java. I create responsive websites that are fast, easy to use and built with the best practices. The main area of my expertise in front-end development is with React, Javascript, CSS/Sass, and HTML, building small to medium web apps. Integrated server-side technologies such as Amazon Web Services(AWS) RDS/DocumentDB, and connections using GO , while running on an EC2 server.
+
 <!--
 **jeremyelam/jeremyelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
