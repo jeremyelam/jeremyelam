@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Find me on 
+
+- [LinkedIn](https://www.linkedin.com/in/jeremy-elam-7a5480102)
 
 <!--
 **jeremyelam/jeremyelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
